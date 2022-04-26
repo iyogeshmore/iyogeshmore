@@ -45,4 +45,8 @@
 
 📈 my github stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" />
 
-[![trophy](https://github-profile-trophy.vercel.app/iyogeshmoreryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  </a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
