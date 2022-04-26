@@ -23,14 +23,14 @@
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
-
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
 - 💬 ask me about anything, i am happy to help;
--  <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 
 **languages and tools:**  
