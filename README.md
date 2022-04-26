@@ -45,7 +45,3 @@
 
 📈 my github stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" />
 
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iyogeshmore&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Yogesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
