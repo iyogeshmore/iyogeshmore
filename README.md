@@ -30,6 +30,8 @@
   
 
 - 💬 ask me about anything, i am happy to help;
+-  <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 **languages and tools:**  
 
@@ -44,6 +46,3 @@
 
 
 📈 my github stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" />
-
-  
- <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
