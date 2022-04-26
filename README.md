@@ -45,4 +45,4 @@
 
 📈 my github stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" />
 
-  https://github-profile-trophy.vercel.app/?iyogeshmore=ryo-ma&theme=dark_lover
+  https://github-profile-trophy.vercel.app/iyogeshmore=ryo-ma&theme=dark_lover
