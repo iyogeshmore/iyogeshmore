@@ -44,6 +44,13 @@
   
 </p>
 
+Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
 Tools 
 
 <p>
@@ -53,11 +60,6 @@ Tools
 
 
 
-Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 
 ** **
