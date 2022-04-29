@@ -28,7 +28,7 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
 
 
-  <img align="right" alt="GIF" src="https://github.com/iyogeshmore/iyogeshmore/blob/master/code.gif?raw=true" width="450" height="360" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="360" />
   
 
 - 💬 ask me about anything, i am happy to help;
