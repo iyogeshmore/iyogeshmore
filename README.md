@@ -46,27 +46,3 @@
 ** **
 **📈 my github status**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" /><a href="https://github.com/iyogeshmore/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
-
-  
-                                                                                                                                                                                  |  
-
-
-### [All github metrics](https://github.com/lowlighter/metrics) -  [lowlighter](https://github.com/lowlighter)   
-An infographics generator with 30+ plugins and 200+ options to display stats
-<table>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
-      <img width="900" height="1" alt="">
-    </td>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>  
-
