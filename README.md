@@ -36,26 +36,7 @@
 
 **languages and tools:**  
 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
-** **
-**📈 my github status**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" /><a href="https://github.com/iyogeshmore/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
-
-  
-  <p>
+ <p>
  
   <img src="https://img.shields.io/badge/shell script-323330?style=for-the-badge&logo=shellscript&logoColor=F7DF1E" />
   
@@ -69,4 +50,20 @@ Tools
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
 </p>
+
+
+
+Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
+** **
+**📈 my github status**
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&theme=gotham" alt="iyogeshmore" /><a href="https://github.com/iyogeshmore/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
+
+  
+ 
 
