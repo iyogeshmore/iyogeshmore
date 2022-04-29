@@ -65,7 +65,7 @@ Tools
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Itilij-%23575757.svg?&style=for-the-badge&logo=intilij-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=Intellij-text&logoColor=important" />
 </p>
 
 Databases
