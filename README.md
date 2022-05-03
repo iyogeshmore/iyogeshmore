@@ -5,7 +5,7 @@
 <a href="https://discord.gg/XyexgJkW">
   <img align="left" alt="Yogesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="NA">
+<a href="https://twitter.com/YogeshM84850172">
   <img align="left" alt="iyogeshmore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured">
