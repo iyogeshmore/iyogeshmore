@@ -59,7 +59,7 @@ Tools
   
   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
   
-   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" /> </a> 
+   <img src="https://img.shields.io/badge/Nodejs-%23575757.svg?&style=for-the-badge&logo=Nodejs-text&logoColor=important" /> </a> 
   
 </p>
 
