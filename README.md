@@ -59,7 +59,7 @@ Tools
   
   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
   
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/mysql-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" /> </a> 
   
 </p>
 
