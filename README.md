@@ -58,8 +58,8 @@ Tools
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
- 
-    <img src="https://img.shields.io/badge/Node-%23575757.svg?&style=for-the-badge&logo=node-text&logoColor=important" />
+  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/mysql-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   
 </p>
 
