@@ -49,13 +49,16 @@
 Databases
 
 <p>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  
+    <img src="https://img.shields.io/badge/Nodejs-2C2255?style=for-the-badge&logo=nodejs&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
  
 </p>
