@@ -38,9 +38,10 @@
 
  <p>
  
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/shell script-323330?style=for-the-badge&logo=shellscript&logoColor=F7DF1E" />
   
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
   
 </p>
