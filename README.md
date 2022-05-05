@@ -44,6 +44,9 @@
   
    <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/Html-ED8B00?style=for-the-badge&logo=html&logoColor=white" />
+   <img src="https://img.shields.io/badge/Css-ED8B00?style=for-the-badge&logo=css&logoColor=white" />
+  
 </p>
 
 Databases
