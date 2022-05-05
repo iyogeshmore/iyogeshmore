@@ -46,7 +46,7 @@
   
   <img src="https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" />
   
-   <img src="https://img.shields.io/badge/Css-ED8B00?style=for-the-badge&logo=css&logoColor=white" />
+   <img src="https://img.shields.io/badge/css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" />
   
   <img src="https://img.shields.io/badge/shell script-323330?style=for-the-badge&logo=shellscript&logoColor=F7DF1E" />
  
