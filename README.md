@@ -70,7 +70,7 @@ Tools
  
    <img src="https://img.shields.io/badge/Nodejs-%23575757.svg?&style=for-the-badge&logo=nodejs-text&logoColor=important" />
   
-    <img src="https://img.shields.io/badge/Vscode-%23575757.svg?&style=for-the-badge&logo=vscode-text&logoColor=important" />
+    <img src="https://img.shields.io/badge/Vs code-%23575757.svg?&style=for-the-badge&logo=Vs code-text&logoColor=important" />
   
 </p>
 
