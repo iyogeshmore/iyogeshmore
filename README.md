@@ -65,10 +65,10 @@ Tools
 <p>  
  
   
-    <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
-    <img src="https://img.shields.io/badge/Visual Studio Code-%23575757.svg?&style=for-the-badge&logo=Visual Studio Code-text&logoColor=important" />
-    <img src="https://img.shields.io/badge/Eclipse-%23575757.svg?&style=for-the-badge&logo=eclipse-text&logoColor=important" />
-    <img src="https://img.shields.io/badge/Nodejs-%23575757.svg?&style=for-the-badge&logo=nodejs-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Visual Studio Code-%23575757.svg?&style=for-the-badge&logo=Visual Studio Code-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Eclipse-%23575757.svg?&style=for-the-badge&logo=eclipse-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Nodejs-%23575757.svg?&style=for-the-badge&logo=nodejs-text&logoColor=important" />
   
     
   
