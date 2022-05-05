@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/Shell script-ED8B00?style=for-the-badge&logo=shell script&logoColor=white" />
   
  
-  
 </p>
 
 Databases
@@ -59,7 +58,6 @@ Databases
 Tools
 
 <p>  
- 
   
 <img src="https://img.shields.io/badge/Intellij-%23575757.svg?&style=for-the-badge&logo=intellij-text&logoColor=important" />
 <img src="https://img.shields.io/badge/Visual Studio Code-%23575757.svg?&style=for-the-badge&logo=Visual Studio Code-text&logoColor=important" />
@@ -69,7 +67,6 @@ Tools
 ** **    
   
 </p>
-
 
 📈  My github status 
   
