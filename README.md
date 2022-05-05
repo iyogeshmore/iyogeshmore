@@ -48,7 +48,7 @@
   
 <img src="https://img.shields.io/badge/css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" />
   
-<img src="https://img.shields.io/badge/Bash-ED8B00?style=for-the-badge&logo=bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash$-ED8B00?style=for-the-badge&logo=bash$&logoColor=white" />
   
 <img src="https://img.shields.io/badge/Shell script-ED8B00?style=for-the-badge&logo=shell script&logoColor=white" />
   
