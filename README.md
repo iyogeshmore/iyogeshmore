@@ -40,15 +40,15 @@
  
     
   
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     
-   <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" />
   
-   <img src="https://img.shields.io/badge/css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" />
   
-   <img src="https://img.shields.io/badge/Shell script-ED8B00?style=for-the-badge&logo=shell script&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell script-ED8B00?style=for-the-badge&logo=shell script&logoColor=white" />
   
  
   
