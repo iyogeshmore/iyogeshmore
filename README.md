@@ -30,6 +30,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="360" />
   
+** **
 
 **languages and tools:**  
 
@@ -65,7 +66,7 @@ Tools
 <img src="https://img.shields.io/badge/Eclipse-%23575757.svg?&style=for-the-badge&logo=eclipse-text&logoColor=important" />
 <img src="https://img.shields.io/badge/Nodejs-%23575757.svg?&style=for-the-badge&logo=nodejs-text&logoColor=important" />
   
-    
+** **    
   
 </p>
 
