@@ -21,7 +21,7 @@
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
-🌱The skills I'm learning right now are Shell Programming, Java,JavaScript and MySQL.
+🌱The skills I'm learning right now are Shell Programming, Java, MySQL ,HTML, CSS JavaScript..
 
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
