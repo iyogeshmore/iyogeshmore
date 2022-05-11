@@ -2,7 +2,7 @@
 <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y=">
   <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XyexgJkW">
+<a href="https://discord.gg/8knnK7aBqs">
   <img align="left" alt="Yogesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/YogeshM84850172">
@@ -39,7 +39,7 @@
    <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.gg/XyexgJkW"> 
+<a href="https://discord.gg/8knnK7aBqs"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured"> 
