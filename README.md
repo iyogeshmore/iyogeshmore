@@ -70,12 +70,13 @@
 
 ## ☃️ **MY LEARNING RESOURCES**
 
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 [google]: https://www.google.com
 [gog]: https://www.geeksforgeeks.org/
+[youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 <hr />
 
