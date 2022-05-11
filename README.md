@@ -17,7 +17,7 @@
 <br />
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
+   <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://discord.gg/XyexgJkW"> 
