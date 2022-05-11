@@ -89,11 +89,12 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![w3schools](https://img.shields.io/badge/w3schools-gray?style=for-the-badge&logo=w3schools&logoColor=35914c)][w3schools]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
 [google]: https://www.google.com
 [gog]: https://www.geeksforgeeks.org/
 [youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 [w3schools]: https://www.w3schools.com/
-<hr />
+[github]: https://github.com/iyogeshmore
+
 
