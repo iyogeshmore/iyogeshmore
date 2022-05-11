@@ -17,6 +17,15 @@
 
 <br />
 
+
+
+<br />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
+<br />
+
+## Fun Fact 🎈: <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
+
 👋 Hi, I’m @iyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
@@ -26,6 +35,11 @@
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
+
+<img src="./assets/profile-banner-new.gif" width="3000" />
+</span>
+
+<br />
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="380" />
