@@ -43,12 +43,6 @@
 [![Java](https://img.shields.io/badge/Java-563D7C?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
 
 
-
-## ⚙️ **BACKEND DEV**
-
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
-
-
 ## 📅 **DATABASES**
 
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
@@ -64,14 +58,7 @@
 ## 🛠️ **DEVOPS TOOLS**
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")][repo]
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
-[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")][repo]
 [![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
-
-<!-- [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white "Gradle")][repo] -->
 
 
 ## 📄 **CODE EDITOR & IDES**
@@ -79,6 +66,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Intellij](https://img.shields.io/badge/Intellij%20Studio-3DDC84.svg?style=for-the-badge&logo=intellij&logoColor=white)][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)][repo]
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
+
 
 
 ## ⭕ **OPERATING SYSTEMS**
