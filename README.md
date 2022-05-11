@@ -1,12 +1,4 @@
-<img src="./assets/profile-banner-new.gif" width="3000" />
 
-<br />
-
-**I am Full-stack web/mobile developer from India.**<br />I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love logic and structure of coding and alway strive to white elegant and efficient code, weather it be HTML, CSS, or JavaScript.
-<br />**I have 5+ Years of experience in full-stack web-dev**.
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
-<br />
 
 ## Fun Fact 🎈: <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
