@@ -14,10 +14,6 @@
 </span>
 
 <br />
-
-
-<br />
-
 ## 🌏 **CONNECT WITH ME**
 
 <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
@@ -57,17 +53,14 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)][repo]
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
-## 📅 **DATABASES**
-
-[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
-
 ## 🛠️ **DEVLOPMENT TOOLS**
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
 
+## 📅 **DATABASES**
 
-
+[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
 
 ## ⭕ **OPERATING SYSTEMS**
 
