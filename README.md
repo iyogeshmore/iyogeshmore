@@ -50,6 +50,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] 
 
+## 📄 **CODE EDITOR & IDES**
+
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+[![Intellij](https://img.shields.io/badge/Intellij%20Studio-3DDC84.svg?style=for-the-badge&logo=intellij&logoColor=white)][repo]
+[![Jupyter Notebook](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)][repo]
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
 ## 📅 **DATABASES**
 
@@ -61,12 +67,7 @@
 [![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
 
 
-## 📄 **CODE EDITOR & IDES**
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Intellij](https://img.shields.io/badge/Intellij%20Studio-3DDC84.svg?style=for-the-badge&logo=intellij&logoColor=white)][repo]
-[![Jupyter Notebook](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)][repo]
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
 ## ⭕ **OPERATING SYSTEMS**
 
