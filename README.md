@@ -14,11 +14,6 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
-
-<br />
-
-
-
 <br />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
@@ -36,7 +31,6 @@
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
 
-<img src="./assets/profile-banner-new.gif" width="3000" />
 </span>
 
 <br />
