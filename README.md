@@ -87,8 +87,11 @@
 [![w3schools](https://img.shields.io/badge/w3schools-gray?style=for-the-badge&logo=w3schools&logoColor=35914c)][w3schools]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![javatpoint](https://img.shields.io/badge/javatpoint-FF0000?style=for-the-badge&logo=javatpoint&logoColor=white)][javatpoint]
+
 
 [google]: https://www.google.com
 [youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
+[javatpoint]: https://www.javatpoint.com/java-tutorial
