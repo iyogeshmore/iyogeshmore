@@ -29,7 +29,7 @@
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="450" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="390" />
 
 
 ## 🌏 **CONNECT WITH ME**
