@@ -16,8 +16,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
 
-<br />
-
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
 
@@ -31,10 +29,7 @@
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
 
-
 </span>
-
-<br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="380" />
 </span>
 <br />
