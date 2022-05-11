@@ -36,17 +36,9 @@
 
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="380" />
-
-
-## Fun Fact 🎈: <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
-
-🌱The skills I'm learning right now are Shell Programming, Java, MySQL ,HTML, CSS JavaScript..
-
 </span>
 </span>
-
 </span>
-
 <br />
 
 ## 🌏 **CONNECT WITH ME**
