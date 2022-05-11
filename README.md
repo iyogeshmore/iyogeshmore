@@ -51,7 +51,7 @@
 <a href="https://www.facebook.com/profile.php?id=100005693325416"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<a href="https://web.whatsapp.com/8097912903"> 
+<a href="https://web.whatsapp.com/8850055197"> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
 <br />
