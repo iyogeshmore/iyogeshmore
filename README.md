@@ -12,10 +12,11 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com" and via. Contact Number + 91 8850055197
 
 </span>
+</span>
 
 <br />
 <br />
-## 🎯 **PROGRAMMING LANGUAGES**
+## 🌏 **CONNECT WITH ME**
 
    <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
