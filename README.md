@@ -12,7 +12,6 @@
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
 
@@ -23,7 +22,7 @@
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
-🌱The skills I'm learning right now are Shell Programming, Java, MySQL ,HTML, CSS JavaScript..
+🌱The skills I'm learning right now are Shell Programming, Java, MySQL ,HTML, CSS JavaScript.
 
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
@@ -65,8 +64,8 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![Intellij](https://img.shields.io/badge/Intellij%20Studio-3DDC84.svg?style=for-the-badge&logo=intellij&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
+![Eclipse](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
 
 ## 🛠️ **DEVLOPMENT TOOLS**
 
@@ -81,18 +80,14 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ## ☃️ **MY LEARNING RESOURCES**
 
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![w3schools](https://img.shields.io/badge/w3schools-gray?style=for-the-badge&logo=w3schools&logoColor=35914c)][w3schools]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
 [google]: https://www.google.com
-[gog]: https://www.geeksforgeeks.org/
 [youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
-
-
