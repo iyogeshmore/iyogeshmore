@@ -102,4 +102,4 @@
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 
 
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" alt="Yogesh's github used languages"/></a>
