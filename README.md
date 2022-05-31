@@ -100,6 +100,3 @@
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
-
-
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
