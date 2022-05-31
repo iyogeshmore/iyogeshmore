@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
 <br />
-
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 ## 🎯 **PROGRAMMING LANGUAGES**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
@@ -101,5 +101,5 @@
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 
-xxxxx
+
 <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
