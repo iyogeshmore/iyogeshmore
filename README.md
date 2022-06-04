@@ -18,7 +18,6 @@
 
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 👋 Hi, I’m @iyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
@@ -30,6 +29,7 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 
 
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 
 ## 🌏 **CONNECT WITH ME**
 
