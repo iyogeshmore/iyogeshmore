@@ -18,7 +18,7 @@
 
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 👋 Hi, I’m @iyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
@@ -86,7 +86,7 @@
 ## ⭕ **OPERATING SYSTEMS**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
+
 
 ## ☃️ **MY LEARNING RESOURCES**
 
