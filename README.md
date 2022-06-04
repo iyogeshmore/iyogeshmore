@@ -29,7 +29,7 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 
 
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
+
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -56,6 +56,7 @@
 </a>
 <br />
 
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
