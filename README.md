@@ -45,6 +45,9 @@
 <a href="mailto:iyogesh.more1998@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> <br />
+
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
+
 <a href="https://twitter.com/YogeshM84850172"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
@@ -55,7 +58,6 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
 <br />
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
