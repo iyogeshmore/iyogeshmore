@@ -122,3 +122,31 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&show_
  
 For Adding Icons to profile:
 https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyogeshmore" alt="iyogeshmore" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyogeshmore&show_icons=true&locale=en&layout=compact" alt="iyogeshmore" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&locale=en" alt="iyogeshmore" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyogeshmore&" alt="iyogeshmore" /></p>
