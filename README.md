@@ -44,7 +44,7 @@
 </a>
 <a href="mailto:iyogesh.more1998@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
+</a> <br />
 <a href="https://twitter.com/YogeshM84850172"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
