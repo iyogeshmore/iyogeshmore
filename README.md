@@ -56,10 +56,10 @@
 </a>
 
 <br />
-<br /><br /><br />
+<br />
 <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 
-
+<br /><br /><br /><br /><br /><br /><br /><br />
 ## 🎯 **PROGRAMMING LANGUAGES**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
