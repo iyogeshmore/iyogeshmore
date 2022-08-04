@@ -111,23 +111,3 @@
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iyogeshmore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyogeshmore" alt="iyogeshmore" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyogeshmore&show_icons=true&locale=en&layout=compact" alt="iyogeshmore" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&locale=en" alt="iyogeshmore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyogeshmore&" alt="iyogeshmore" /></p>
