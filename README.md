@@ -12,6 +12,9 @@
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<p align="left">
+<a href="https://codepen.io/yogesh-more-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yogesh-more-the-bashful" height="30" width="40" /></a>
+</p>
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
 
@@ -59,9 +62,10 @@
 <a href="https://web.whatsapp.com/8850055197"> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
-<p align="left">
-<a href="https://codepen.io/yogesh-more-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yogesh-more-the-bashful" height="30" width="40" /></a>
-</p>
+</a>
+<a href="[https://discord.gg/8knnK7aBqs](https://codepen.io/yogesh-more-the-bashful)"> 
+    <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" title="codepen"  alt="codepen"/>
+</a>
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
