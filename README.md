@@ -71,6 +71,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
+![vuejs](https://img.shields.io/badge/vuejs-1572B6?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
 
 ## 📄 **CODE EDITOR & IDES**
 
