@@ -11,8 +11,6 @@
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured">
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://codepen.io/yogesh-more-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yogesh-more-the-bashful" height="30" width="40" /></a>
-</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
 
