@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
 </a>
-<a href="[https://discord.gg/8knnK7aBqs](https://codepen.io/yogesh-more-the-bashful)"> 
+<a href="https://codepen.io/yogesh-more-the-bashful"> 
     <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" title="codepen"  alt="codepen"/>
 </a>
 <br />
