@@ -34,6 +34,7 @@
 ## 🌏 **CONNECT WITH ME**
 
 
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
 
 
    <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
