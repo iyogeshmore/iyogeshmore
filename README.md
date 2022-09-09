@@ -112,17 +112,3 @@
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
-
-
-#### Top Repositories
-
-
-<a href="https://github.com/iyogeshmore/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iyogeshmore&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/iyogeshmore/iyogeshmore.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iyogeshmore&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
