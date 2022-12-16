@@ -38,6 +38,12 @@
    <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
+<a href="https://www.hackerrank.com/iyogesh_more"> 
+    <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
+</a>
+<a href="[https://linkedin.io/yogesh-more-the-bashful](https://www.linkedin.com/in/yogesh-more-445582253/)"> 
+    <img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/>
+</a>
 <a href="https://discord.gg/8knnK7aBqs"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
@@ -61,13 +67,6 @@
 <a href="https://codepen.io/yogesh-more-the-bashful"> 
     <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" title="codepen"  alt="codepen"/>
 </a>
-<a href="https://www.hackerrank.com/iyogesh_more"> 
-    <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
-</a>
-<a href="[https://linkedin.io/yogesh-more-the-bashful](https://www.linkedin.com/in/yogesh-more-445582253/)"> 
-    <img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/>
-</a>
-
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
