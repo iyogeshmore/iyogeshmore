@@ -43,11 +43,6 @@
 
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/></a>
 
-<a href="mailto:iyogesh.more1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> 
-<a href="https://twitter.com/YogeshM84850172"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a>
-
 
 <a href="[https://web.whatsapp.com/8850055197](https://www.facebook.com/profile.php?id=100005693325416)"> 
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
@@ -57,8 +52,8 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter/>
 </a>
 
-<a href="https://web.whatsapp.com/8850055197"> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
+<a href="mailto:iyogesh.more1998@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 
 <a href="https://web.whatsapp.com/8850055197"> 
