@@ -1,5 +1,5 @@
 ### hey there 
-<a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y=">
+<a href="https://www.instagram.com/iam_yogeshmore/">
   <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/yogesh-more-445582253/">
@@ -36,7 +36,7 @@
 
 <a href="[https://linkedin.io/yogesh-more-the-bashful](https://www.linkedin.com/in/yogesh-more-445582253/)"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 <br />
-<a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y="> 
+<a href="https://www.instagram.com/iam_yogeshmore/"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/></a>
 <br />
 <a href="https://discord.gg/8knnK7aBqs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/></a>
