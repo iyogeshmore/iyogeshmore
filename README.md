@@ -32,8 +32,8 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 
 ## 🌏 **CONNECT WITH ME**
-..........<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=false"/></a> 
-.............
+.                                                 <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=false"/></a> 
+
 <a href="[https://linkedin.io/yogesh-more-the-bashful](https://www.linkedin.com/in/yogesh-more-445582253/)"> 
     <img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/>
 </a>
