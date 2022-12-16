@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/yogesh-more-445582253/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/iyogesh_more"> 
-<img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=green" title="hackerrank"  alt="hackerrank"/>
+<img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
 </a>
    <a href="https://www.instagram.com/iam_yogeshmore/"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
