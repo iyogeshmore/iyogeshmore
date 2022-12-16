@@ -56,14 +56,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 
-<a href="https://web.whatsapp.com/8850055197"> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
-</a>
-
-
-<a href="https://web.whatsapp.com/8850055197"> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
-</a>
 </a>
 <a href="https://codepen.io/yogesh-more-the-bashful"> 
     <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" title="codepen"  alt="codepen"/>
