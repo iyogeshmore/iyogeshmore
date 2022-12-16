@@ -47,16 +47,14 @@
 <a href="https://twitter.com/YogeshM84850172"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100005693325416"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a>
+
 
 <a href="[https://web.whatsapp.com/8850055197](https://www.facebook.com/profile.php?id=100005693325416)"> 
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
 
-<a href="https://web.whatsapp.com/8850055197"> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
+<a href="https://twitter.com/YogeshM84850172"> 
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter/>
 </a>
 
 <a href="https://web.whatsapp.com/8850055197"> 
