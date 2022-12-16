@@ -31,6 +31,7 @@
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 ## 🌏 **CONNECT WITH ME**
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=false"/></a> 
 
    <a href="https://www.instagram.com/iam_yogeshmore/"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
@@ -53,8 +54,6 @@
 <a href="https://web.whatsapp.com/8850055197"> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
-<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true"/></a>
-
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
