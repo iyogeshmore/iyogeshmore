@@ -35,35 +35,7 @@
 <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=false"/></a> 
 
 <a href="[https://linkedin.io/yogesh-more-the-bashful](https://www.linkedin.com/in/yogesh-more-445582253/)"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
-<br />
-<a href="https://www.instagram.com/iam_yogeshmore/"> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/></a>
-<br />
-<a href="https://discord.gg/8knnK7aBqs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/></a>
 
-<a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/></a>
-
-
-<a href="[https://web.whatsapp.com/8850055197](https://www.facebook.com/profile.php?id=100005693325416)"> 
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a>
-
-<a href="https://twitter.com/YogeshM84850172"> 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter/>
-</a>
-
-<a href="mailto:iyogesh.more1998@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-
-</a>
-<a href="https://codepen.io/yogesh-more-the-bashful"> 
-    <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" title="codepen"  alt="codepen"/>
-</a>
-
-<a href="https://www.hackerrank.com/iyogesh_more"> 
-<img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
-</a>
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
