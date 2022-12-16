@@ -38,8 +38,9 @@
 <a href="https://www.hackerrank.com/iyogesh_more"> 
 <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
 </a>
-
-<a href="https://www.instagram.com/iam_yogeshmore/"><img src="https://img.shields.io/badge/instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" title="instagram"  alt="instagram"/></a>
+<a href="https://www.instagram.com/iam_yogeshmore/"> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/></a>
+<br />
 
 <br />
 
