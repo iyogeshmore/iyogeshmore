@@ -32,6 +32,10 @@
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 
 ## 🌏 **CONNECT WITH ME**
+
+<a href="https://github.com/iyogeshmore/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=false"/></a>
+
+
 <a href="https://www.hackerrank.com/iyogesh_more"> 
 <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
 </a>
