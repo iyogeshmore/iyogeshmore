@@ -44,15 +44,7 @@
 <a href="https://www.instagram.com/iam_yogeshmore/"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/></a>
 <a href="https://twitter.com/YogeshM84850172"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=linketwitterdin&logoColor=white" title="twitter"  alt="twitter"/></a>
-
-<a href="https://twitter.com/YogeshM84850172"> 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter/>
-</a>
-                                                                                                                              
-    <a href="https://www.facebook.com/profile.php?id=100005693325416"> 
-<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook/>
-</a>                                                                                                                          
-
+                                                                                                                   
 <a href="mailto:iyogesh.more1998@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
@@ -61,7 +53,9 @@
 <a href="mailto:iyogesh.more1998@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-
+ <a href="https://www.facebook.com/profile.php?id=100005693325416"> 
+<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook/>
+</a>   
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
