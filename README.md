@@ -2,6 +2,9 @@
 <a href="https://instagram.com/ig_yogesh.more?igshid=YmMyMTA2M2Y=">
   <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+<a href="https://www.linkedin.com/in/yogesh-more-445582253/">
+  <img align="left" alt="Yogesh's linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+</a>
 <a href="https://discord.gg/8knnK7aBqs">
   <img align="left" alt="Yogesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
