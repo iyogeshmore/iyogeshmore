@@ -54,8 +54,7 @@
 <a href="https://www.hackerrank.com/iyogesh_more"> 
 <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
 </a>
-
-
+<a href="https://twitter.com/YogeshM84850172"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=linketwitterdin&logoColor=white" title="twitter"  alt="twitter"/></a>
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
