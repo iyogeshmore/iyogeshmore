@@ -36,6 +36,8 @@
 
 <a href="https://www.linkedin.com/in/yogesh-more-445582253/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 
+<a href="https://www.instagram.com/iam_yogeshmore/"><img src="https://img.shields.io/badge/instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" title="instagram"  alt="instagram"/></a>
+
 <br />
 
 ## 🎯 **PROGRAMMING LANGUAGES**
