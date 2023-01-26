@@ -119,27 +119,6 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=iyogeshmore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=iyogeshmore&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyogeshmore&theme=default" alt="Aras Güngöre's Profile Details" /> </a>
-    </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iyogeshmore&theme=default" alt="Stats" /> </a>
     </td>
     <td>
