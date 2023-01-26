@@ -113,7 +113,6 @@
 
 
 
-fdfdfd
 
 <table>
   <tr>
@@ -139,12 +138,6 @@ fdfdfd
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iyogeshmore&theme=default" alt="Top Languages by Repo" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iyogeshmore&theme=default" alt="Top Languages by Commit" /> </a>
-    </td>
   </tr>
   <tr>
     <td>
