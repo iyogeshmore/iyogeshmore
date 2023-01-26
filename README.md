@@ -121,9 +121,6 @@
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=iyogeshmore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
     </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=iyogeshmore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
-    </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
