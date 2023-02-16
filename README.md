@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/iam_yogeshmore/">
   <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/yogesh-more-445582253/">
+<a href="https://www.linkedin.com/in/yogesh-more-28b663266/">
   <img align="left" alt="Yogesh's linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a> 
 <a href="https://discord.gg/8knnK7aBqs">
@@ -35,7 +35,7 @@
 
  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="right" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=iyogeshmore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
 
-<a href="https://www.linkedin.com/in/yogesh-more-445582253/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/yogesh-more-28b663266/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/iyogesh_more"> 
 <img src="https://img.shields.io/badge/hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
 </a>
