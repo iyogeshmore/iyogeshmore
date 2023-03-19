@@ -11,8 +11,8 @@
 <a href="https://twitter.com/YogeshM84850172">
   <img align="left" alt="iyogeshmore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured">
-  <img align="left" alt="Yogesh's Youtube" width="22px" src="https://www.youtube.com/@ig_yogeshgaming/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.youtube.com/@ig_yogeshgaming">
+  <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
