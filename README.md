@@ -1,19 +1,12 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%iam_yogeshmore&countColor=%23263759&style=plastic&labelStyle=none) 
 <br />
 
-#### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TusharS07&theme=dark&background=000000)](https://git.io/streak-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharS07&layout=compact&theme=light)](https://github.com/TusharS07/github-readme-stats) -->
-
 <a href="https://github.com/iam_yogeshmore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam_yogeshmore&theme=light&count_private=true&layout=compact" width="205" alt="iam_yogeshmore's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam_yogeshmore&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
 <a href="https://github.com/iam_yogeshmore">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam_yogeshmore&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="iam_yogeshmore's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam_yogeshmore&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Tushar's github stats"/>
 </a>
-
-
 
 
 
