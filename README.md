@@ -1,9 +1,3 @@
-<a href="https://github.com/iyogeshmore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
-</a>
-
-
-
 ### hey there !
 <a href="https://www.instagram.com/iam_yogeshmore/">
   <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
